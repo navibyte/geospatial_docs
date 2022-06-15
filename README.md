@@ -15,6 +15,7 @@ Licensed under the [Creative Commons Attribution-Share Alike 4.0 International l
 
 Licensed under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en):
 * SVG-files on the [assets/doc/coordinates/geographic](assets/doc/coordinates/geographic) folder by Djexplo.
+* JPEG-files on the [assets/doc/projections/eckert4](assets/doc/projections/eckert4) folder by [Ktrinko](https://commons.wikimedia.org/wiki/User:Ktrinko).
 
 ## Other public domain content
 
