@@ -15,3 +15,7 @@ Licensed under the [Creative Commons Attribution-Share Alike 4.0 International l
 
 Licensed under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en):
 * SVG-files on the [assets/doc/coordinates/geographic](assets/doc/coordinates/geographic) folder by Djexplo.
+
+## Other public domain content
+
+* JPEG-files on the [assets/doc/projections/winkel](assets/doc/projections/winkel) folder by NASA.
