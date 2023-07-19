@@ -14,6 +14,7 @@ Licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported licens
 Licensed under the [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en):
 * PNG-files on the [assets/doc/projections/webmercator](assets/doc/projections/webmercator) folder by [TheCrazyWhovian](https://commons.wikimedia.org/wiki/User:TheCrazyWhovian).
 * PNG-files on the [assets/doc/coordinates/cartesian](assets/doc/coordinates/cartesian) folder by *Sommacal alfonso*.
+* PNG-files on the [assets/doc/geodesy/rhumb_line_vs_great_circle/](assets/doc/geodesy/rhumb_line_vs_great_circle/) folder by *Jacob Rus*.
 
 Licensed under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en):
 * SVG-files on the [assets/doc/coordinates/geographic](assets/doc/coordinates/geographic) folder by Djexplo.
